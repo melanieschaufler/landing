@@ -1,0 +1,13 @@
+.btn-primary {
+  color: white;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: bold;
+  transition: background 0.3s ease;
+}
+
+.btn-primary:hover {
+  border-bottom: 3px solid #A6B64A;
+}

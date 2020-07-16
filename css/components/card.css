@@ -1,0 +1,28 @@
+.card-container {
+  display: flex;
+  justify-content: left;
+  margin-left: 120px;
+}
+
+.card {
+  width: 30%;
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.card h3 {
+  color: #A6B64A;
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+.card p {
+  color: #424d1c;
+  width: 70%;
+  margin: 0 auto;
+}
+
+.card img {
+  width: 35%;
+}
